@@ -166,6 +166,8 @@
   <string name="app_ops_get_accounts">Geräte-Konten abzurufen</string>
   <string name="app_ops_wifi_change">WLAN-Status zu ändern</string>
   <string name="app_ops_su">Root-Zugriff zu erhalten</string>
+  <string name="app_ops_motion_sensors">Bewegungssensoren zu nutzen</string>
+  <string name="app_ops_other_sensors">sonstige Sensoren zu nutzen</string>
   <!-- Notify user that they are in Lock-to-app (for devices without navbar) -->
   <string name="lock_to_app_toast_no_navbar">Zum Lösen dieser Ansicht drücken und halten Sie die Zurück-Taste.</string>
   <!-- Template for showing cellular network operator name while LTE calling is enabled -->

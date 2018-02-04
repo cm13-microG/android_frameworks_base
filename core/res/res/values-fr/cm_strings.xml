@@ -166,6 +166,8 @@
   <string name="app_ops_get_accounts">obtenir les comptes de l\'appareil</string>
   <string name="app_ops_wifi_change">changer l\'état du Wi-Fi</string>
   <string name="app_ops_su">obtenir l\'accès root</string>
+  <string name="app_ops_motion_sensors">utiliser les capteurs de mouvement</string>
+  <string name="app_ops_other_sensors">utiliser d\'autres capteurs</string>
   <!-- Notify user that they are in Lock-to-app (for devices without navbar) -->
   <string name="lock_to_app_toast_no_navbar">Pour déverrouiller l\'écran, appuyez et maintenez le bouton Retour.</string>
   <!-- Template for showing cellular network operator name while LTE calling is enabled -->

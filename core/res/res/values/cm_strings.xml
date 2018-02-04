@@ -188,6 +188,8 @@
     <string name="app_ops_get_accounts">get device accounts</string>
     <string name="app_ops_wifi_change">change Wi-Fi state</string>
     <string name="app_ops_su">get root access</string>
+    <string name="app_ops_motion_sensors">use the motion sensors</string>
+    <string name="app_ops_other_sensors">use other sensors</string>
 
     <!-- Notify user that they are in Lock-to-app (for devices without navbar) -->
     <string name="lock_to_app_toast_no_navbar">To unpin this screen, touch and hold the Back button.</string>
